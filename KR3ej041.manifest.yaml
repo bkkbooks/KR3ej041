@@ -1,0 +1,1116 @@
+canonical_identifier: bkk:krp/KR3ej041/v1
+canonical_location: https://kanripo.org/bkk/KR3ej041/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 幼科證治大全
+  identifiers:
+    krp: KR3ej041
+  tags:
+    kr-categories: KR3ej
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej041.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej041_000.yaml, hash: 'sha256:3024c42bdc03892a0de8d42f9e128a5e63bf7a2007c3c322f925ba115e06be52'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej041_000.markers.yaml, hash: 'sha256:41ef66674383ea31ee000b4e6e9f714c5bff4001a7000aa839da473cbf712349'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 86
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 447
+  label: 一胎寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d4.h1s1
+    span:
+    - body
+    - 447
+    - 961
+  label: 二胎熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d5.h1s1
+    span:
+    - body
+    - 961
+    - 1123
+  label: 三胎肥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d6.h1s1
+    span:
+    - body
+    - 1123
+    - 1179
+  label: 四胎瘦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d7.h1s1
+    span:
+    - body
+    - 1179
+    - 1401
+  label: 五不乳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d8.h1s1
+    span:
+    - body
+    - 1401
+    - 1889
+  label: 六胎驚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d9.h1s1
+    span:
+    - body
+    - 1889
+    - 2147
+  label: 七胎黃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d10.h1s1
+    span:
+    - body
+    - 2147
+    - 2630
+  label: 八撮口
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d11.h1s1
+    span:
+    - body
+    - 2630
+    - 2983
+  label: 九口噤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d12.h1s1
+    span:
+    - body
+    - 2983
+    - 3284
+  label: 一鎖肛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d13.h1s1
+    span:
+    - body
+    - 3284
+    - 3682
+  label: 一一臍突
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d14.h1s1
+    span:
+    - body
+    - 3682
+    - 3828
+  label: 一二月里生嘔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d15.h1s1
+    span:
+    - body
+    - 3828
+    - 4451
+  label: 一三變蒸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d16.h1s1
+    span:
+    - body
+    - 4451
+    - 4681
+  label: 一四眼閉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d17.h1s1
+    span:
+    - body
+    - 4681
+    - 5160
+  label: 一五臍風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d18.h1s1
+    span:
+    - body
+    - 5160
+    - 5710
+  label: 一六夜啼
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d19.h1s1
+    span:
+    - body
+    - 5710
+    - 6077
+  label: 一七客忤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d20.h1s1
+    span:
+    - body
+    - 6077
+    - 6327
+  label: 一八中惡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d21.h1s1
+    span:
+    - body
+    - 6327
+    - 6438
+  label: 一九哭無聲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d22.h1s1
+    span:
+    - body
+    - 6438
+    - 6661
+  label: 二內釣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d23.h1s1
+    span:
+    - body
+    - 6661
+    - 8140
+  label: 二一急驚風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d24.h1s1
+    span:
+    - body
+    - 8140
+    - 9427
+  label: 二二慢驚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d25.h1s1
+    span:
+    - body
+    - 9427
+    - 9874
+  label: 二三慢脾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d26.h1s1
+    span:
+    - body
+    - 9874
+    - 10151
+  label: 二四物觸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d27.h1s1
+    span:
+    - body
+    - 10151
+    - 10445
+  label: 二五天釣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d28.h1s1
+    span:
+    - body
+    - 10445
+    - 10876
+  label: 二六癇證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d29.h1s1
+    span:
+    - body
+    - 10876
+    - 11836
+  label: 二七感冒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d30.h1s1
+    span:
+    - body
+    - 11836
+    - 12124
+  label: 二八濕證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d31.h1s1
+    span:
+    - body
+    - 12124
+    - 12665
+  label: 二九諸熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d32.h1s1
+    span:
+    - body
+    - 12665
+    - 13696
+  label: 三脾胃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d33.h1s1
+    span:
+    - body
+    - 13696
+    - 14287
+  label: 三一腹脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d34.h1s1
+    span:
+    - body
+    - 14287
+    - 15030
+  label: 三二傷食
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d35.h1s1
+    span:
+    - body
+    - 15030
+    - 15249
+  label: 三三腮腫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d36.h1s1
+    span:
+    - body
+    - 15249
+    - 17666
+  label: 三四疳證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d37.h1s1
+    span:
+    - body
+    - 17666
+    - 18127
+  label: 三五虛羸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d38.h1s1
+    span:
+    - body
+    - 18127
+    - 19855
+  label: 三六嘔吐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d39.h1s1
+    span:
+    - body
+    - 19855
+    - 19983
+  label: 三七吐水吐蟲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d40.h1s1
+    span:
+    - body
+    - 19983
+    - 20994
+  label: 三八泄瀉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d41.h1s1
+    span:
+    - body
+    - 20994
+    - 23351
+  label: 三九霍亂吐瀉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d42.h1s1
+    span:
+    - body
+    - 23351
+    - 25213
+  label: 四痢疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d43.h1s1
+    span:
+    - body
+    - 25213
+    - 26008
+  label: 四一腹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d44.h1s1
+    span:
+    - body
+    - 26008
+    - 26148
+  label: 四二心痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d45.h1s1
+    span:
+    - body
+    - 26148
+    - 27079
+  label: 四三癖疾並食積
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d46.h1s1
+    span:
+    - body
+    - 27079
+    - 28467
+  label: 四四咳嗽附喘急
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d47.h1s1
+    span:
+    - body
+    - 28467
+    - 29718
+  label: 四五瘧疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d47d76
+    span:
+    - body
+    - 29385
+    - 29718
+  label: 補遺
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d48.h1s1
+    span:
+    - body
+    - 29718
+    - 30113
+  label: 四六鵝口瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d49.h1s1
+    span:
+    - body
+    - 30113
+    - 31164
+  label: 四七口瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d50.h1s1
+    span:
+    - body
+    - 31164
+    - 31587
+  label: 四八重舌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d51.h1s1
+    span:
+    - body
+    - 31587
+    - 31851
+  label: 四九木舌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d52.h1s1
+    span:
+    - body
+    - 31851
+    - 32054
+  label: 五弄舌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d53.h1s1
+    span:
+    - body
+    - 32054
+    - 32448
+  label: 五一走馬牙疳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d54.h1s1
+    span:
+    - body
+    - 32448
+    - 33005
+  label: 五二吃泥土
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d55.h1s1
+    span:
+    - body
+    - 33005
+    - 33945
+  label: 五三赤遊丹毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d56.h1s1
+    span:
+    - body
+    - 33945
+    - 34301
+  label: 五四喉痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d57.h1s1
+    span:
+    - body
+    - 34301
+    - 35045
+  label: 五五眼疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d58.h1s1
+    span:
+    - body
+    - 35045
+    - 35773
+  label: 五六耳疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d59.h1s1
+    span:
+    - body
+    - 35773
+    - 36330
+  label: 五七鼻瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d60.h1s1
+    span:
+    - body
+    - 36330
+    - 37029
+  label: 五八頭瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d61.h1s1
+    span:
+    - body
+    - 37029
+    - 37566
+  label: 五九白禿瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d61d46
+    span:
+    - body
+    - 37494
+    - 37566
+  label: 補遺
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d62.h1s1
+    span:
+    - body
+    - 37566
+    - 38047
+  label: 六臍瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d63.h1s1
+    span:
+    - body
+    - 38047
+    - 39074
+  label: 六一蛔蟲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d64.h1s1
+    span:
+    - body
+    - 39074
+    - 39222
+  label: 六二尾骨痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d65.h1s1
+    span:
+    - body
+    - 39222
+    - 39727
+  label: 六三陰腫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d66.h1s1
+    span:
+    - body
+    - 39727
+    - 39808
+  label: 六四脫囊
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d67.h1s1
+    span:
+    - body
+    - 39808
+    - 40610
+  label: 六五陰腫疝氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d68.h1s1
+    span:
+    - body
+    - 40610
+    - 41056
+  label: 六六盤腸氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d69.h1s1
+    span:
+    - body
+    - 41056
+    - 41678
+  label: 六七脫肛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d70.h1s1
+    span:
+    - body
+    - 41678
+    - 42078
+  label: 六八遺尿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d71.h1s1
+    span:
+    - body
+    - 42078
+    - 42449
+  label: 六九白濁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d72.h1s1
+    span:
+    - body
+    - 42449
+    - 42941
+  label: 七便血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d73.h1s1
+    span:
+    - body
+    - 42941
+    - 43536
+  label: 七一淋疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d74.h1s1
+    span:
+    - body
+    - 43536
+    - 43730
+  label: 七二尿血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d75.h1s1
+    span:
+    - body
+    - 43730
+    - 44103
+  label: 七三吐血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d76.h1s1
+    span:
+    - body
+    - 44103
+    - 44510
+  label: 七四鼻衄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d77.h1s1
+    span:
+    - body
+    - 44510
+    - 45061
+  label: 七五小便不通
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d78.h1s1
+    span:
+    - body
+    - 45061
+    - 45284
+  label: 七六大便不通
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d79.h1s1
+    span:
+    - body
+    - 45284
+    - 45570
+  label: 七七大小便閉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d80.h1s1
+    span:
+    - body
+    - 45570
+    - 46670
+  label: 七八腫脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d81.h1s1
+    span:
+    - body
+    - 46670
+    - 47613
+  label: 七九黃疸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d82.h1s1
+    span:
+    - body
+    - 47613
+    - 48511
+  label: 八汗症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d83.h1s1
+    span:
+    - body
+    - 48511
+    - 48949
+  label: 八一解顱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d84.h1s1
+    span:
+    - body
+    - 48949
+    - 49148
+  label: 八二鶴膝
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d85.h1s1
+    span:
+    - body
+    - 49148
+    - 49537
+  label: 八三行遲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d86.h1s1
+    span:
+    - body
+    - 49537
+    - 50069
+  label: 八四語遲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d87.h1s1
+    span:
+    - body
+    - 50069
+    - 50275
+  label: 八五齒遲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d88.h1s1
+    span:
+    - body
+    - 50275
+    - 50480
+  label: 八六發遲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d89.h1s1
+    span:
+    - body
+    - 50480
+    - 50673
+  label: 八七龜胸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d90.h1s1
+    span:
+    - body
+    - 50673
+    - 50872
+  label: 八八龜背
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d91.h1s1
+    span:
+    - body
+    - 50872
+    - 51026
+  label: 八九囟陷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d92.h1s1
+    span:
+    - body
+    - 51026
+    - 51186
+  label: 九囟填
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d93.h1s1
+    span:
+    - body
+    - 51186
+    - 51402
+  label: 九一手拳不展
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d94.h1s1
+    span:
+    - body
+    - 51402
+    - 51541
+  label: 九二腳拳不展
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d95.h1s1
+    span:
+    - body
+    - 51541
+    - 51695
+  label: 九三白虎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d96.h1s1
+    span:
+    - body
+    - 51695
+    - 52032
+  label: 九四魃病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d97.h1s1
+    span:
+    - body
+    - 52032
+    - 52350
+  label: 九五諸瘡癬疥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d98.h1s1
+    span:
+    - body
+    - 52350
+    - 52428
+  label: 九六眉瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d99.h1s1
+    span:
+    - body
+    - 52428
+    - 52542
+  label: 九七凍瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d100.h1s1
+    span:
+    - body
+    - 52542
+    - 52961
+  label: 九八湯火瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d101.h1s1
+    span:
+    - body
+    - 52961
+    - 53120
+  label: 九九懸癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d102.h1s1
+    span:
+    - body
+    - 53120
+    - 53477
+  label: 一發斑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d103.h1s1
+    span:
+    - body
+    - 53477
+    - 54116
+  label: 一一癰毒腫節
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d104.h1s1
+    span:
+    - body
+    - 54116
+    - 54488
+  label: 一二瘰癧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d105.h1s1
+    span:
+    - body
+    - 54488
+    - 55184
+  label: 一三滯頤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d106.h1s1
+    span:
+    - body
+    - 55184
+    - 63172
+  label: 一四痘瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d107.h1s1
+    span:
+    - body
+    - 63172
+    - 63291
+  label: 一五水痘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej041_jc_000-d108.h1s1
+    span:
+    - body
+    - 63291
+    - 65536
+  label: 一六麻疹
+  type: section
+  level: 1
+hash: sha256:f4a9f441cb77ed6cf030d2cd62fafcdc078c64267e219203217a20883c9a6cb8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
