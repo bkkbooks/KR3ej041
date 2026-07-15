@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej041/v1
 canonical_location: https://kanripo.org/bkk/KR3ej041/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 幼科證治大全
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej041_000.yaml, hash: 'sha256:9886428fec352027c330852023989c145fbc8e29cac7bb60b0671dcff0f2d1f1'}
+  - {seq: 0, filename: KR3ej041_000.yaml, hash: 'sha256:12d0202cb624929160d5bb6961bdff64551ed7e2f99006859d73fd2a39ef3f8f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej041_000.markers.yaml, hash: 'sha256:390ac0e39a8fc7fe07c07054b356814e63d26a14b47c813b1474edff76116706'}
+  - {seq: 0, role: markers, filename: assets/KR3ej041_000.markers.yaml, hash: 'sha256:3971a51f2fe4b346722fdc69ecfac06c190496a67a4dcc912eeb5eb2424c0cad'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1110,4 +1110,7 @@ table_of_contents:
   label: 一六麻疹
   type: section
   level: 1
-hash: sha256:e5d2940850f55a3dae802da68f4c9056e8c4825962e9d5683256a7ef325d4b65
+hash: sha256:04938c56cc3bbcc1f8aae051aff29ab9aa0a353096415005ccf6e083761b3d5c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
