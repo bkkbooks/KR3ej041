@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej041_000-jc.yaml, hash: 'sha256:9886428fec352027c330852023989c145fbc8e29cac7bb60b0671dcff0f2d1f1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej041_000-jc.markers.yaml, hash: 'sha256:690575a77a0a7342948baef52282a10cdd66a89b9185c276647351bc309718f6'}
+  - {seq: 0, role: markers, filename: assets/KR3ej041_000-jc.markers.yaml, hash: 'sha256:bdc614a99de60a07a58db658b8af909e4b53c73c9711a59de90f2045404c8019'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1110,4 +1110,4 @@ table_of_contents:
   label: 一六麻疹
   type: section
   level: 1
-hash: sha256:df06ca97a305015ebc5f9e79c8505bb0c9e678a559811a5e5065d6688502d883
+hash: sha256:48ab5b23c44c752419e2906bd009a42351204b9e4f4b640a4833dabfff8c2464
